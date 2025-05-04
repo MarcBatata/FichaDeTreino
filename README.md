@@ -1,6 +1,6 @@
-Gerenciador de Treino - README
+# Gerenciador de Treino - README
 
-Descrição <br><br>
+### Descrição <br><br>
 O Gerenciador de Treino é um aplicativo Python para console que permite criar e gerenciar um plano de treino para musculação. O programa possibilita adicionar, editar e remover exercícios, visualizar o treino por dia, e compartilhar o treino em diferentes formatos.
 
 ---
@@ -63,3 +63,9 @@ O programa apresenta um menu principal com as seguintes opções: <br><br>
 ### Licença
 Este projeto é disponibilizado como código aberto para uso pessoal e educacional. <br><br>
 Este aplicativo foi projetado para ajudar entusiastas de fitness a organizar seus treinos de forma eficiente, com uma interface intuitiva e recursos completos para gerenciamento de rotinas de exercícios.
+
+---
+
+<div class="image">
+<img src="image.png" alt="Interface">
+</div>
