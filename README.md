@@ -1,6 +1,6 @@
 Gerenciador de Treino - README
 
-Descrição <br>
+Descrição <br><br>
 O Gerenciador de Treino é um aplicativo Python para console que permite criar e gerenciar um plano de treino para musculação. O programa possibilita adicionar, editar e remover exercícios, visualizar o treino por dia, e compartilhar o treino em diferentes formatos.
 
 ---
@@ -15,7 +15,7 @@ O Gerenciador de Treino é um aplicativo Python para console que permite criar e
 💾 Sistema de backup automático <br>
 📤 Exporte seu treino para TXT ou CS <br>
 
-# Requisitos
+### Requisitos
 
 Python 3.6+ <br>
 Bibliotecas: tabulate, colorama <br>
@@ -24,14 +24,14 @@ Bibliotecas: tabulate, colorama <br>
 
 # Instalação
 
-## Clone o repositório
+### Clone o repositório
 git clone https://github.com/MarcBatata/FichaDeTreino.git <br>
 cd gerenciador-treino <br>
 
-## Instale as dependências
+### Instale as dependências
 pip install tabulate colorama <br>
 
-## Execute o programa
+### Execute o programa
 python gerenciador_treino.py <br>
 
 ---
@@ -52,14 +52,14 @@ O programa apresenta um menu principal com as seguintes opções: <br><br>
 
 
 
-## Recursos avançados
+### Recursos avançados
 
-Diferentes configurações de séries (normal, drop set, pirâmide, bi-set) <br>
-Recomendações de tempo de descanso baseadas no seu objetivo <br>
-Visualização em formato de tabela para melhor organização <br>
-Sistema de backup para evitar perda de dados <br>
+1. Diferentes configurações de séries (normal, drop set, pirâmide, bi-set)
+2. Recomendações de tempo de descanso baseadas no seu objetivo
+3. Visualização em formato de tabela para melhor organização
+4. Sistema de backup para evitar perda de dados
 
 
-## Licença
-Este projeto é disponibilizado como código aberto para uso pessoal e educacional. <br>
+### Licença
+Este projeto é disponibilizado como código aberto para uso pessoal e educacional. <br><br>
 Este aplicativo foi projetado para ajudar entusiastas de fitness a organizar seus treinos de forma eficiente, com uma interface intuitiva e recursos completos para gerenciamento de rotinas de exercícios.
