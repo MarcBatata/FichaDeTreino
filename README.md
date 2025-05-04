@@ -67,5 +67,8 @@ Este aplicativo foi projetado para ajudar entusiastas de fitness a organizar seu
 ---
 
 <div class="image">
-<img src="image.png" alt="Interface">
+    <img src="image.png" alt="Interface">
+    <style>
+        align-items: center;
+    </style>
 </div>
