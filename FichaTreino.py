@@ -551,7 +551,7 @@ def exportar_treino():
         pausar()
         return
     
-    opcoes = ["Exportar para TXT", "Exportar para CSV", "Voltar"]
+    opcoes = ["Exportar para TXT", "Exportar para CSV", "Voltar"] # ANOTAÇÃO: ARRUMAR EXPORTAÇÃO EM FORMATO CSV
     
     print("Selecione o formato de exportação:")
     for i, opcao in enumerate(opcoes, 1):
